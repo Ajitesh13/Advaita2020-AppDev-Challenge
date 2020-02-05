@@ -6,13 +6,11 @@
 
 #### Views:-
 
-Splash Screen:
+
 ![ScreenShot-1](ScreenShot/ezgif.com-gif-maker.gif)
 
-User Details(Side Nav Bar):
 ![ScreenShot-2](ScreenShot/rsz_ss2.jpg) ![Ss](ScreenShot/my.jpg)
 
-Fragments UI:
 ![SS-4](ScreenShot/rsz_1ss1.jpg) ![SS-5](ScreenShot/rsz_ss4.jpg)
 ![SS-5](ScreenShot/rsz_ss00.jpg)
 
