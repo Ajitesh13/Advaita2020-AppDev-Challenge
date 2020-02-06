@@ -1,8 +1,9 @@
 # This is our App for Advaita 2020 AppDev Challenge!
 
-## Excited uh ?
+## This is the final Submission of our App
 
-## Stay Tuned and keep an eye for more updates!
+#### Important:
+    1. A good internet connection is expected for the smooth functioning of the app
 
 #### Views:-
 
